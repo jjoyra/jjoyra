@@ -8,11 +8,11 @@ I am interested in user-friendly service and good UX/UI design.💖
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 #### Frontend
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&&logo=html5&logoColor=white"></a>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&&logo=CSS3&logoColor=white"></a>&nbsp; 
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
 
 #### etc
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp;
+<!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp; -->
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp;
 
 <img width="363px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bunny7531" />
